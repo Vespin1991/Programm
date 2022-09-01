@@ -1,0 +1,15 @@
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm4\obj\Debug\net6.0\programm4.csproj.AssemblyReference.cache
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm4\obj\Debug\net6.0\programm4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm4\obj\Debug\net6.0\programm4.AssemblyInfoInputs.cache
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm4\obj\Debug\net6.0\programm4.AssemblyInfo.cs
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm4\obj\Debug\net6.0\programm4.csproj.CoreCompileInputs.cache
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm4\bin\Debug\net6.0\programm4.exe
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm4\bin\Debug\net6.0\programm4.deps.json
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm4\bin\Debug\net6.0\programm4.runtimeconfig.json
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm4\bin\Debug\net6.0\programm4.dll
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm4\bin\Debug\net6.0\programm4.pdb
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm4\obj\Debug\net6.0\programm4.dll
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm4\obj\Debug\net6.0\refint\programm4.dll
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm4\obj\Debug\net6.0\programm4.pdb
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm4\obj\Debug\net6.0\programm4.genruntimeconfig.cache
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm4\obj\Debug\net6.0\ref\programm4.dll
