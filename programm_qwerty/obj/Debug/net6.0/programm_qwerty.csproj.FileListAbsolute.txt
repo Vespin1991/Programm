@@ -1,0 +1,15 @@
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm_qwerty\bin\Debug\net6.0\programm_qwerty.exe
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm_qwerty\bin\Debug\net6.0\programm_qwerty.deps.json
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm_qwerty\bin\Debug\net6.0\programm_qwerty.runtimeconfig.json
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm_qwerty\bin\Debug\net6.0\programm_qwerty.dll
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm_qwerty\bin\Debug\net6.0\programm_qwerty.pdb
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm_qwerty\obj\Debug\net6.0\programm_qwerty.csproj.AssemblyReference.cache
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm_qwerty\obj\Debug\net6.0\programm_qwerty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm_qwerty\obj\Debug\net6.0\programm_qwerty.AssemblyInfoInputs.cache
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm_qwerty\obj\Debug\net6.0\programm_qwerty.AssemblyInfo.cs
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm_qwerty\obj\Debug\net6.0\programm_qwerty.csproj.CoreCompileInputs.cache
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm_qwerty\obj\Debug\net6.0\programm_qwerty.dll
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm_qwerty\obj\Debug\net6.0\refint\programm_qwerty.dll
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm_qwerty\obj\Debug\net6.0\programm_qwerty.pdb
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm_qwerty\obj\Debug\net6.0\programm_qwerty.genruntimeconfig.cache
+D:\Программа разработчик GeekBrains\1 четверть\Знакомство с языками программирования-3\Вебинар 1\Проекты\program1\programm_qwerty\obj\Debug\net6.0\ref\programm_qwerty.dll
